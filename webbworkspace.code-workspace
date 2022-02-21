@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\TE20C-FORM"
+    },
+    {
+      "path": "..\\Naomi-Arley-BildGalleri"
+    },
+    {
+      "path": "..\\javascript"
+    },
+    {
+      "path": "..\\shoppingcart"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "ProjektWebbsida"
+  }
+}
